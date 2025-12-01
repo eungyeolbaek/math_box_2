@@ -22,3 +22,6 @@ const divide_for_premium = (a, b) => a / b;
 
 // 무료 버전 나눗셈
 const divide_for_free = (a, b) => a / b;
+
+// type (x:number, y:number) -> number;
+const sqaure = (a) => a * a;
