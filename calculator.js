@@ -15,4 +15,7 @@ const multiply = (a, b) => a * b;
 const divide = (a, b) =>  {
     if (b === 0) return;
     return a / b;  
-}
+};
+
+// 무료 버전 나눗셈
+const divide_for_free = (a, b) => a / b;
